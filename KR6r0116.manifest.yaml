@@ -1,0 +1,43 @@
+canonical_identifier: bkk:krp/KR6r0116/v1
+canonical_location: https://kanripo.org/bkk/KR6r0116/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 冥報記
+  identifiers:
+    alt_id:
+    - T51n2082
+  tags:
+    kr-categories: KR6r
+    auth-cat: T51
+    tls-regions: reg002
+  source:
+    repository: tls-texts
+    path: data/tls/KR6r0116.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0116_000.yaml, hash: 'sha256:4a9c4a9459b89f859ecbaa97378b08340370f7cd05ee72f6c22e4ccbe1833e2b'}
+  - {seq: 2, filename: KR6r0116_002.yaml, hash: 'sha256:bd059b10098e8fef645d939e1cb001e6ce74b635af12cbd838d5c8bba62e051b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0116_000.markers.yaml, hash: 'sha256:62e8b302ecb6412be236de458cbc32f95344b426c3bed4245d5e183a991e9cbf'}
+  - {seq: 2, role: markers, filename: assets/KR6r0116_002.markers.yaml, hash: 'sha256:eb5aa2e92c35bf31ddcde96389ae22729525d68fcf036b637d5f16c1b1460ad3'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6r0116_CBETA_002-juan-start
+    span:
+    - body
+    - 0
+    - 15179
+  label: 冥報記
+  type: juan
+  level: 1
+hash: sha256:bd3bbf29b2fba1ac42dfce6b1d62c4345008dbd73662955bb7ba64c539fc48d8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: CBETA

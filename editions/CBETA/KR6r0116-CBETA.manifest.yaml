@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6r0116/CBETA/v1
+canonical_location: https://kanripo.org/bkk/KR6r0116/CBETA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 冥報記
+  identifiers:
+    krp: KR6r0116
+    dila: CA0002252
+    cbeta: KR6r0116
+    canon: T
+    vol: '51'
+    'no': '2082'
+  tags:
+    kr-categories: KR6r
+    auth-cat: T51
+    tls-regions: reg002
+  source:
+    repository: tls-texts
+    path: data/tls/KR6r0116.xml
+  edition:
+    short: CBETA
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0116_000-CBETA.yaml, hash: 'sha256:b50421dea02426b2ed1bfab84e493086080298ba18a9a489eb5d53b64064201a'}
+  - {seq: 2, filename: KR6r0116_002-CBETA.yaml, hash: 'sha256:54f5a6f7c80511dbeaec65c203a5ddc3024775ceac17bdc5c0bb1c1a7ea3ef0a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0116_000-CBETA.markers.yaml, hash: 'sha256:f42c68c3b1cca8da4dd6b834c34f023e737d3c2995f96841f28aeb94a1244e19'}
+  - {seq: 2, role: markers, filename: assets/KR6r0116_002-CBETA.markers.yaml, hash: 'sha256:5182c83a9db18abe53b5246453c48aa15b1842485fcdd1d9719d5838ecd3bfcb'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6r0116_CBETA_002-juan-start
+    span:
+    - body
+    - 0
+    - 15179
+  label: 冥報記
+  type: juan
+  level: 1
+hash: sha256:096c798ad61e97877d363315b6ca03c70bbcd15c793e5c15e293e78757967360
