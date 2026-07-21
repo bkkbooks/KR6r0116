@@ -19,10 +19,10 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6r0116_000.yaml, hash: 'sha256:a88dd2ff77bdc96cb00f4a70d70d7f845b82215d6a58996a7becfde5c47a0f30'}
+  - {seq: 0, filename: KR6r0116_000.yaml, hash: 'sha256:ea24d0977ec9a404d353da8a32e50adacfdcf848e4b4e4c8c3b9355faa66c2ba'}
   - {seq: 2, filename: KR6r0116_002.yaml, hash: 'sha256:774a84bca46dfe558a42cc241879b95efe23eb10d39a5359b5ffbcf2e5fcf323'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0116_000.markers.yaml, hash: 'sha256:f7654369dedef6b283fb89ebbae48f239ac45f3aede1d26814853aa02d3b6d3b'}
+  - {seq: 0, role: markers, filename: assets/KR6r0116_000.markers.yaml, hash: 'sha256:c842175f3bad863e4701e7038bc89bdd7659ba45997bca954bf2419c0c58be65'}
   - {seq: 2, role: markers, filename: assets/KR6r0116_002.markers.yaml, hash: 'sha256:7a369b295efd4efade109061134dda13489dd8b30fb86f45cad541147580144c'}
 table_of_contents:
 - ref:
@@ -35,7 +35,7 @@ table_of_contents:
   label: 冥報記
   type: juan
   level: 1
-hash: sha256:bcb1f5e7b16637dca02e4934a51312960c723ee910e8f1790916b3c264e1728a
+hash: sha256:8909c887aa97d5b7ecc4b138973529517701a99f749454202fe65e0d20913b2a
 editions:
 - short: CBETA
 mappings:

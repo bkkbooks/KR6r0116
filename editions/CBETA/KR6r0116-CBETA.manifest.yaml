@@ -23,10 +23,10 @@ metadata:
     short: CBETA
 assets:
   parts:
-  - {seq: 0, filename: KR6r0116_000-CBETA.yaml, hash: 'sha256:b50421dea02426b2ed1bfab84e493086080298ba18a9a489eb5d53b64064201a'}
+  - {seq: 0, filename: KR6r0116_000-CBETA.yaml, hash: 'sha256:a78e4d4df8c18ac6260bb3271ae131219e8f6fff0ba843065b27641f23c797ec'}
   - {seq: 2, filename: KR6r0116_002-CBETA.yaml, hash: 'sha256:54f5a6f7c80511dbeaec65c203a5ddc3024775ceac17bdc5c0bb1c1a7ea3ef0a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0116_000-CBETA.markers.yaml, hash: 'sha256:f42c68c3b1cca8da4dd6b834c34f023e737d3c2995f96841f28aeb94a1244e19'}
+  - {seq: 0, role: markers, filename: assets/KR6r0116_000-CBETA.markers.yaml, hash: 'sha256:5d3d3e0ce8593da0b2ac33ae46c581210c60725e169429d680c40a9334392bdc'}
   - {seq: 2, role: markers, filename: assets/KR6r0116_002-CBETA.markers.yaml, hash: 'sha256:5182c83a9db18abe53b5246453c48aa15b1842485fcdd1d9719d5838ecd3bfcb'}
 table_of_contents:
 - ref:
@@ -39,4 +39,4 @@ table_of_contents:
   label: 冥報記
   type: juan
   level: 1
-hash: sha256:096c798ad61e97877d363315b6ca03c70bbcd15c793e5c15e293e78757967360
+hash: sha256:f66458ced16fb8fbf89c7a85ccfd83d097b667a2c28ff273b865b87217c0c7e2
